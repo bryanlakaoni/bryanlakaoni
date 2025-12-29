@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Bryan! 👋
 
-<!--
-**bryanlakaoni/bryanlakaoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Engineer | Building Scalable Systems
+*Based in Jakarta, Indonesia 🇮🇩*
 
-Here are some ideas to get you started:
+I am a Computer Science student at **Binus University** specializing in **Software Engineering**. I build robust applications with a focus on clean architecture, design patterns, and user-centric experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | Java, Python, JavaScript/TypeScript, SQL |
+| **Frontend** | React, Tailwind CSS, HTML5 |
+| **Backend** | Node.js |
+| **Tools** | Git, Figma |
+
+---
+
+### 🏆 Featured Projects
+
+#### 1. [Say and Pray] 📱
+> *A mobile application for Catholic prayers and liturgical reminders.*
+* **Tech:** [ Java ]
+* **Key Feature:** Implemented offline-first architecture for prayer storage.
+* **Role:** full Stack Developer.
+
+#### 2. [Rock Paper Scissors Web App] 🎮
+> *Interactive web game featuring real-time logic.*
+* **Tech:** [ React, JavaScript ]
+* **Key Feature:** Optimized game logic for <100ms response time.
+
+#### 3. [Posture Guard] 💻
+> *A Desktop application for users to detect postures while using laptop/desktop*
+* **Tech:** [ HTML5, JavaScript, TensorFlow.js ]
+* **Key Feature:** Implemented a real time posture detection using open source machine learning PoseNet.
+
+---
+
+### 📈 GitHub Stats
+![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanlakaoni&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanlakaoni&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with Me
+* [LinkedIn]([linkedin.com/in/bryanlakaoni])
+* [Email](mailto:[bryanlakaoni@gmail.com])

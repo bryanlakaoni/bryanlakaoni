@@ -21,7 +21,7 @@ I am a Computer Science student at **Binus University** specializing in **Softwa
 
 #### 1. [Say and Pray - Mobile App](https://github.com/bryanlakaoni/Say-and-Pray) 📱
 > *A mobile application for Catholic prayers and liturgical reminders.*
-* **Tech:** [ Java ]
+* **Tech:** [ Java, Android SDK, SQLite, REST API ]
 * **Key Feature:** Implemented offline-first architecture for prayer storage.
 * **Role:** full Stack Developer.
 

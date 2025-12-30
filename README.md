@@ -21,18 +21,18 @@ I am a Computer Science student at **Binus University** specializing in **Softwa
 
 #### 1. [Say and Pray - Mobile App](https://github.com/bryanlakaoni/Say-and-Pray) 📱
 > *A mobile application for Catholic prayers and liturgical reminders.*
-* **Tech:** [ Java, Android SDK, SQLite, REST API ]
+* **Tech:** Java, Android SDK, SQLite, REST API
 * **Key Feature:** Implemented offline-first architecture for prayer storage.
 * **Role:** full Stack Developer.
 
 #### 2. Rock Paper Scissors - Web App 🎮
 > *Interactive web game featuring real-time logic.*
-* **Tech:** [ React, JavaScript ]
+* **Tech:** React, JavaScript
 * **Key Feature:** Optimized game logic for <100ms response time.
 
 #### 3. Posture Guard - Desktop App 💻
 > *A Desktop application for users to detect postures while using laptop/desktop*
-* **Tech:** [ HTML5, JavaScript, TensorFlow.js ]
+* **Tech:** HTML5, JavaScript, TensorFlow.js
 * **Key Feature:** Implemented a real time posture detection using open source machine learning PoseNet.
 
 ---

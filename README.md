@@ -25,7 +25,7 @@ I am a Computer Science student at **Binus University** specializing in **Softwa
 * **Key Feature:** Implemented offline-first architecture for prayer storage.
 * **Role:** full Stack Developer.
 
-#### 2. Rock Paper Scissors - Web App 🎮
+#### 2. [Rock Paper Scissors - Web App](https://github.com/bryanlakaoni/Rock-Paper-Scissor) 🎮
 > *Interactive web game featuring real-time logic.*
 * **Tech:** React, JavaScript
 * **Key Feature:** Optimized game logic for <100ms response time.

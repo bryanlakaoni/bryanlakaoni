@@ -44,5 +44,5 @@ I am a Computer Science student at **Binus University** specializing in **Softwa
 ---
 
 ### 📫 Connect with Me
-* [LinkedIn]([linkedin.com/in/bryanlakaoni])
+* [linkedin.com/in/bryanlakaoni])(https://www.linkedin.com/in/bryanlakaoni/)
 * [Email](mailto:[bryanlakaoni@gmail.com])
